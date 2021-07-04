@@ -13,9 +13,10 @@
 ***
 ### External Dependencies to be Installed:
 * pycryptodomex (AES encryption)
-'''Python
-pip install pycryptodomex
-'''
+* 
+```
+$ pip install pycryptodomex
+```
 ### Tutorial to Encrypt/Decrypt Files:
 1. Open The Application.
 2. You can simply encrypt/decrypt the text without log in.
