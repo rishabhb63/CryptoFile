@@ -13,7 +13,7 @@
 ***
 ### External Dependencies to be Installed:
 * pycryptodomex (AES encryption)
-* 
+
 ```
 $ pip install pycryptodomex
 ```
